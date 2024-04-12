@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Netflix-clone, GamersHub-website<br>👯 I’m looking to collaborate on Web Applications<br>🤝 I’m looking for help with Frontend, Framework, Design, Adobe Apps<br>🌱 I’m currently learning Python Full Stack, Rest API, Django, <br>
+🔭 I’m currently working on Library Management System<br>👯 I’m looking to collaborate on Web Applications<br>🤝 I’m looking for help with Frontend, Framework<br>🌱 I’m currently learning Python Full Stack, Django <br>
 
 
 ## 🌐 Socials:
